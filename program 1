@@ -1,6 +1,6 @@
 x = 1j
-y = 11.7
-z = 10m
+y = 10.5
+z = 10s
 print(type(x))
 print(type(y))
 print(type(z))
